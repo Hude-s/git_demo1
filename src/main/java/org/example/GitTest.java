@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("git测试");
         System.out.println("git测试");
         System.out.println("git测试");
+        System.out.println("master 提交");
     }
 }
